@@ -1,0 +1,6 @@
+/* ProductCard.css */
+.card-image {
+    width: 300px; /* Defina a largura desejada */
+    height: 200px; /* Defina a altura desejada */
+    object-fit: cover; /* Isso garante que a imagem se ajuste ao tamanho sem distorção */
+  }
